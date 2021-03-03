@@ -1,2 +1,1 @@
-# post-webcomponent
- 
+# Learning Web Components 100% vanilla
