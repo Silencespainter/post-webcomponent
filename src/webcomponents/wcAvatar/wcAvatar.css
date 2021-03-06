@@ -1,0 +1,27 @@
+:host {
+  background: black;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  border-radius: 100%;
+  background-image: url(avatardefault.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+
+:host .nick {
+  box-sizing: border-box;
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.95);
+  color: black;
+  width: 100%;
+  padding: 4px;
+  text-align: center;
+  font-size: 10px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
