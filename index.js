@@ -1,2 +1,2 @@
 // Import Web Components like a module
-import WcAvatar from "./src/webcomponents/wcAvatar/wcAvatar.js";
+// import test from "./src/webcomponents/test/test.js";
